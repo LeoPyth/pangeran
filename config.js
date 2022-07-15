@@ -5,13 +5,13 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
-global.mods = ['+6283844508188'] 
-global.prems = ['+6283844508188'] 
+global.owner = ['+6287824899711'] 
+global.mods = ['+6287824899711'] 
+global.prems = ['+6287824899711'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
+global.nameowner = 'Leo×፝֟͜×'
+global.numberowner = '+6287824899711'
 global.instagram = 'https://instagram.com/kokopangeran_'
 global.github = 'https://github.com/MendingTuru'
 global.dana = '087832147584'
@@ -19,7 +19,7 @@ global.pulsa = '087832147584'
 global.gopay = '087832147584'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Meii-MD×፝֟͜×'
+global.namebot = 'NeoBot×፝֟͜×'
 global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
 global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/kokopangeran_'
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '©Meii-MD×፝֟͜×'
+global.wm = '©NeoBot×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜSopiput×፝֟͜×'
-global.wm3 = 'ᯤ Meii-MD×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜLeo×፝֟͜×'
+global.wm3 = 'ᯤ NeoBot×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
